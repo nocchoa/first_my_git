@@ -15,6 +15,7 @@
 			<li>첫번째 리스트</li>
 			<li>첫번째 리스트</li>
 		</ul>
-
+		<p>리스트 추가 그만</p>
+		</body>
 	<script></script>
 </html>
