@@ -25,6 +25,7 @@
 			<tr>
 				<td colspan="2">
 					<input type="submit" value="로그인"/>
+					<button>로그인</button>
 				</td>
 			</tr>
 		</table>
